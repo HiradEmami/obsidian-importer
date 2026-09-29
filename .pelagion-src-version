@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-09-29T10:07:52+00:00",
+  "purpose": "Immutable initial Pelagion takeover source baseline",
+  "feature_branch": "feat/init-pelagion-takeover",
+  "upstream": {
+    "repository": {
+      "id": 665163927,
+      "node_id": "R_kgDOJ6WYlw",
+      "name": "obsidian-importer",
+      "full_name": "obsidianmd/obsidian-importer",
+      "html_url": "https://github.com/obsidianmd/obsidian-importer",
+      "clone_url": "https://github.com/obsidianmd/obsidian-importer.git",
+      "default_branch": "master",
+      "created_at": "2023-07-11T15:17:46Z",
+      "updated_at": "2026-09-29T09:27:25Z",
+      "pushed_at": "2026-09-26T20:50:55Z",
+      "fork": false,
+      "private": false,
+      "size": 21742
+    },
+    "branch": "master",
+    "commit": {
+      "sha": "054df1d3f8e368b7c2add22c3bae26d96e721901",
+      "tree_sha": "fe72c8f82c72ea2e49e95bc18da30d70c12d747d",
+      "author_timestamp": "2026-09-26T13:47:10-07:00",
+      "committer_timestamp": "2026-09-26T13:47:10-07:00",
+      "subject": "3.1.9",
+      "reachable_commit_count": 623,
+      "exact_tags": [
+        "3.1.9"
+      ],
+      "describe": "3.1.9",
+      "declared_versions": {
+        "package.json": "3.1.9",
+        "manifest.json": "3.1.9"
+      }
+    }
+  },
+  "fork": {
+    "repository": {
+      "id": 1393913255,
+      "node_id": "R_kgDOUxVtpw",
+      "name": "obsidian-importer",
+      "full_name": "HiradEmami/obsidian-importer",
+      "html_url": "https://github.com/HiradEmami/obsidian-importer",
+      "clone_url": "https://github.com/HiradEmami/obsidian-importer.git",
+      "default_branch": "master",
+      "created_at": "2026-09-28T22:27:04Z",
+      "updated_at": "2026-09-28T22:27:04Z",
+      "pushed_at": "2026-09-26T20:50:55Z",
+      "fork": true,
+      "private": false,
+      "size": 21742
+    },
+    "branch": "master",
+    "commit": {
+      "sha": "054df1d3f8e368b7c2add22c3bae26d96e721901",
+      "tree_sha": "fe72c8f82c72ea2e49e95bc18da30d70c12d747d",
+      "author_timestamp": "2026-09-26T13:47:10-07:00",
+      "committer_timestamp": "2026-09-26T13:47:10-07:00",
+      "subject": "3.1.9",
+      "reachable_commit_count": 623,
+      "exact_tags": [
+        "3.1.9"
+      ],
+      "describe": "3.1.9",
+      "declared_versions": {
+        "package.json": "3.1.9",
+        "manifest.json": "3.1.9"
+      }
+    },
+    "previous_remote_commit": "054df1d3f8e368b7c2add22c3bae26d96e721901"
+  },
+  "network_source": {
+    "id": 665163927,
+    "node_id": "R_kgDOJ6WYlw",
+    "name": "obsidian-importer",
+    "full_name": "obsidianmd/obsidian-importer",
+    "html_url": "https://github.com/obsidianmd/obsidian-importer",
+    "clone_url": "https://github.com/obsidianmd/obsidian-importer.git",
+    "default_branch": "master",
+    "created_at": "2023-07-11T15:17:46Z",
+    "updated_at": "2026-09-29T09:27:25Z",
+    "pushed_at": "2026-09-26T20:50:55Z",
+    "fork": false,
+    "private": false,
+    "size": 21742
+  },
+  "feature_base_commit": "054df1d3f8e368b7c2add22c3bae26d96e721901",
+  "source_observed_at_utc": "2026-09-29T10:01:32+00:00",
+  "historical_fork_creation_commit": null,
+  "notes": [
+    "The GitHub repository ID and node ID identify each repository, not a commit.",
+    "Reachable commit count is a history count, not a release number. Exact tags and declared package versions may be absent.",
+    "GitHub creation timestamps do not establish the original fork-creation commit.",
+    "This baseline does not update automatically after later merges. Git history preserves subsequent edits.",
+    "The feature commit containing this file is recorded in Git history; it cannot contain its own hash."
+  ]
+}
